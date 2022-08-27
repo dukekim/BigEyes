@@ -29,7 +29,7 @@
   + bigeyes.ty  왕눈이 출력 테스트 코드 : 마우스를 입력 받아 
  
  
- ### JetsonNano
-  + Web Interface를 통한 카메라 확인 및 로봇 실시간 제어
-  + 아바타 로봇과 Serial통신
+ ### Android
+  + Objct Detection Example 코드를 수정 하여 제작 
+  + OverlayView.kt : 자동차 인식 코드와 왕 눈이 그래픽 출력 루틴 (Python 코드를 포팅)
 
