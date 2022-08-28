@@ -17,8 +17,8 @@
 
 ## 프로젝트 배경 혹은 목적
 
-  <img src="https://user-images.githubusercontent.com/46912845/187037067-9f897f53-59f6-4502-96d6-c73d09fddc94.JPG" width="70%"></img>
-  <img src="https://user-images.githubusercontent.com/46912845/187055000-1391a54b-55fc-4c97-9883-56060a9e661a.jpg" width="70%"></img>
+  <img src="https://user-images.githubusercontent.com/46912845/187055000-1391a54b-55fc-4c97-9883-56060a9e661a.jpg" width="70%"></img> 
+  <img src="https://user-images.githubusercontent.com/46912845/187055037-a6d28f05-6f00-41f2-9fde-0c9da0a2daa4.JPG" width="70%"></img>  
   <img src="https://user-images.githubusercontent.com/46912845/187037077-be5129e0-1c70-41fb-8962-e6aeb79f430d.JPG" width="70%"></img>
   <img src="https://user-images.githubusercontent.com/46912845/187037086-3c956e3b-eaf5-4a12-833b-cf5210a2f436.JPG" width="70%"></img>
  
