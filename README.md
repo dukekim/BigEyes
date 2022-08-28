@@ -26,7 +26,7 @@
  ## Folder List
  
  ### Python
-  + bigeyes.ty  왕눈이 출력 테스트 코드 : 마우스를 입력 받아 
+  + bigeyes.ty  왕눈이 출력 테스트 코드 : 마우스를 입력 받아 동작함 
  
  
  ### Android
