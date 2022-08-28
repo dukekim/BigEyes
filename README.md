@@ -32,4 +32,4 @@
  ### Android
   + Objct Detection Example 코드를 수정 하여 제작 
   + OverlayView.kt : 자동차 인식 코드와 왕 눈이 그래픽 출력 루틴 (Python 코드를 포팅)
-
+  + car_model.tflite : 자동차 전용 추가 학습 모델 ( 베이스 모델 : EfficientDet-Lite1 )
